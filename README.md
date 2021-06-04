@@ -8,5 +8,5 @@
 
 🎈 LNU课表结构示意图
 
-![课表](https://gitee.com/fintinger/figure-bed/raw/master//images/20201105125549.png)
+![](https://gitee.com/fintinger/figure-bed/raw/master//images/20210604171147.png)
 
